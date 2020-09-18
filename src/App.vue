@@ -1,8 +1,8 @@
 <template>
   <div id="app">
-    <h2>预祝大家 都能知道自己心仪的 offer</h2>
-    <img src="https://ss3.bdstatic.com/70cFv8Sh_Q1YnxGkpoWK1HF6hhy/it/u=2244407442,3539065501&fm=26&gp=0.jpg"/>
-    <img src="https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1600233697591&di=0975e6c8f4f41586bb6451674d13ed77&imgtype=0&src=http%3A%2F%2Fimg0.imgtn.bdimg.com%2Fit%2Fu%3D2681546830%2C1272261180%26fm%3D214%26gp%3D0.jpg"/>
+    <h2>アニメが好きですか？</h2>
+    <img src="https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1600405654675&di=58fa42dcd9b84e4211c345826d584c20&imgtype=0&src=http%3A%2F%2Fb.hiphotos.baidu.com%2Fzhidao%2Fpic%2Fitem%2Fa044ad345982b2b75133e15130adcbef77099bf3.jpg"/>
+    <img src="https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1600405654675&di=5189e51f05278b1d2ea74ca6a933a558&imgtype=0&src=http%3A%2F%2Fa.hiphotos.baidu.com%2Fzhidao%2Fpic%2Fitem%2Fb21c8701a18b87d627028bd2070828381e30fdbe.jpg"/>
   </div>
 </template>
 
